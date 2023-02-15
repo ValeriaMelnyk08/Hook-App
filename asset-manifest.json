@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Hook-App/static/css/main.e8580d59.css",
+    "main.js": "/Hook-App/static/js/main.fe351d5d.js",
+    "static/js/787.73520469.chunk.js": "/Hook-App/static/js/787.73520469.chunk.js",
+    "static/media/Martazinova_Ukrinform_july2019.png": "/Hook-App/static/media/Martazinova_Ukrinform_july2019.137c5efbfe312ad8739b.png",
+    "index.html": "/Hook-App/index.html",
+    "main.e8580d59.css.map": "/Hook-App/static/css/main.e8580d59.css.map",
+    "main.fe351d5d.js.map": "/Hook-App/static/js/main.fe351d5d.js.map",
+    "787.73520469.chunk.js.map": "/Hook-App/static/js/787.73520469.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8580d59.css",
+    "static/js/main.fe351d5d.js"
+  ]
+}
