@@ -1,0 +1,19 @@
+.Contact {
+  width: 15%;
+  background-color: rgba(0, 0, 0, 0);
+  margin: 15px;
+  font-size: 20px;
+  border: 4px green solid;
+  font-weight: 600;
+  
+  }
+  
+  p {
+    color: aliceblue;
+    text-align: center;
+  }
+
+  p:hover {
+    color: green;
+    cursor:grab;
+  }
